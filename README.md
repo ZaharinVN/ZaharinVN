@@ -9,7 +9,7 @@
 - Работа с различными архитектурными подходами, включая MVVM, MVP и Clean Architecture.
 - Взаимодействие с сетевыми запросами и API.
 - Использование баз данных для локального хранения данных.
-- Фреймворки и библиотеки: Android SDK, Android Jetpack (LiveData, ViewModel, Room), Retrofit, Dagger, RxJava, Glide, и другие.
+- Фреймворки и библиотеки: Android SDK, Android Jetpack (LiveData, ViewModel, Room), Retrofit, Dagger, RxJava, Glide, Coroutines + Flow.
 - Опыт работы с системами управления версиями Git.
 - Интеграция сторонних библиотек и SDK для добавления дополнительных функций и возможностей в приложение.
 
