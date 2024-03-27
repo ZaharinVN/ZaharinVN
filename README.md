@@ -24,7 +24,7 @@
 ## Мои проекты:
 ✔️ [Playlist Maker](https://github.com/ZaharinVN/PlaylistMaker) приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
 
-✔️ [practicum-android-diploma](https://github.com/ZaharinVN/practicum-android-diploma) приложение для поиска вакансий на базе HeadHunter API.
+✔️ [HHPracticum](https://github.com/ZaharinVN/practicum-android-diploma) приложение для поиска вакансий на базе HeadHunter API.
 ### Стек технологий проектов:
 Kotlin, Android SDK, MVVM, ViewBinding, SharedPreferences, GitFlow, LiveData, Jetpack Navigation Component, Bottom navigation, Fragments, Koin, Coroutines, Flow, Room, Retrofit2, Glide
 
