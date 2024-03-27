@@ -22,7 +22,7 @@
 
 
 ## Мои проекты:
-✔️ [Playlist Maker](https://github.com/ZaharinVN/PlaylistMaker) приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
+✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
 
 ✔️ [HHPracticum](https://github.com/ZaharinVN/practicum-android-diploma) приложение для поиска вакансий на базе HeadHunter API.
 ### Стек технологий проектов:
