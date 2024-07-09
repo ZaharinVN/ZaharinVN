@@ -20,7 +20,6 @@
 / Январь 2023 - Февраль 2024
   
 
-
 ## Мои проекты:
 ✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
 
@@ -28,10 +27,6 @@
 ### Стек технологий проектов:
 Kotlin, Android SDK, MVVM, ViewBinding, SharedPreferences, GitFlow, LiveData, Jetpack Navigation Component, Bottom navigation, Fragments, Koin, Coroutines, Flow, Room, Retrofit2, Glide
 
-## Контакты
-
-- Email: 79045399863@yandex.ru
-- Telegram: https://t.me/ZaharinVN
   
 ### С удовольствием открываю новые возможности в области разработки Android и готов к сотрудничеству над интересными проектами 
 
