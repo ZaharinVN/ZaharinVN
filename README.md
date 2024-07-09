@@ -1,6 +1,6 @@
 ## Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## Меня зовут Виталий Захарин, начинающий разработчик Android.
+## Меня зовут Виталий Захарин, junior разработчик Android.
 
 ## Опыт работы и навыки
 - Языки программирования: Java, Kotlin.
@@ -34,5 +34,5 @@ Kotlin, Android SDK, MVVM, ViewBinding, SharedPreferences, GitFlow, LiveData, Je
 - Telegram: https://t.me/ZaharinVN
   
 ### С удовольствием открываю новые возможности в области разработки Android и готов к сотрудничеству над интересными проектами 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Большое+спасибо+за+внимание!)](https://git.io/typing-svg)
+
 
