@@ -24,6 +24,8 @@
 ✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
 
 ✔️ [HHPracticum](https://github.com/ZaharinVN/practicum-android-diploma) приложение для поиска вакансий на базе HeadHunter API.
+
+✔️ [EffectiveMobileTest](https://github.com/ZaharinVN/EffectiveMobileTest) тестовое задание для Effective Mobile, фронтенд приложения для поиска авиабилетов.  
 ### Стек технологий проектов:
 Kotlin, Android SDK, MVVM, ViewBinding, SharedPreferences, GitFlow, LiveData, Jetpack Navigation Component, Bottom navigation, Fragments, Koin, Coroutines, Flow, Room, Retrofit2, Glide
 
