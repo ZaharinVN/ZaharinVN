@@ -1,6 +1,6 @@
 ## Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## Меня зовут Виталий Захарин, junior разработчик Android.
+## Меня зовут Виталий Захарин.
 
 ## Опыт работы и навыки
 - Языки программирования: Java, Kotlin.
