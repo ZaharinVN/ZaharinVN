@@ -7,7 +7,8 @@
 - Инструменты разработки: IntelliJ IDEA, Android Studio.
 - опыт тестирования API и БД
 - Клиент- серверное взаимодействие (Swagger) <img src="https://logotic.me/system/assets/uploads/vector-files/swagger-1669124761-logotic-brand.svg" height="20" style="vertical-align: middle;" />
-- Тестирование Backend (Postman) <img src="https://logodix.com/logo/2062767.png" height="20" style="vertical-align: middle;" />
+- <h1 style="display: inline-block; vertical-align: middle;">Тестирование Backend (Postman)</h1>
+<img src="https://logodix.com/logo/2062767.png" height="20" style="vertical-align: middle;" />
 - Написание базовых SQL запросов
 - Тестирование Web (DevTools, снифферы) <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" height="20"/></h1>
 - Работа с БД (PostgreSQL) <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" height="20"/></h1>
