@@ -27,11 +27,11 @@
 
 ## Образование
 
-- Т-Банк Образование
+- Т-Банк Образование <img src="https://edu.tinkoff.ru/assets/images/tbank-logo.svg" height="20" /></h1>
 / Курс "Финтех: QA Fullstack (Java)"
 / Август 2024 2023 - Ноябрь 2024
 
-- Яндекс.Практикум
+- Яндекс.Практикум <img src="https://yastatic.net/q/logoaas/v2/Яндекс.svg?circle=black&color=000&first=white" height="20" /></h1>
 / Курс "Андроид Разработчик"
 / Январь 2023 - Февраль 2024
   
