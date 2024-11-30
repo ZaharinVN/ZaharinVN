@@ -1,6 +1,6 @@
 ## Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## Меня зовут Виталий Захарин, начинающий QA Engineer Java / Инженер-тестировщик Java
+## Меня зовут Виталий Захарин
 
 ## Опыт работы и навыки
 - Языки программирования: Java <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="20"/></h1> Kotlin <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="20"/></h1>
