@@ -7,13 +7,13 @@
 - Инструменты разработки: IntelliJ IDEA, Android Studio.
 - опыт тестирования API и БД
 - Клиент- серверное взаимодействие (Swagger) <img src="https://logotic.me/system/assets/uploads/vector-files/swagger-1669124761-logotic-brand.svg" height="20"/></h1>
-- Тестирование Backend (Postman)
+- Тестирование Backend (Postman) <img src="https://logodix.com/logo/2062767.png" height="20"/></h1>
 - Написание базовых SQL запросов
-- Тестирование Web (DevTools, снифферы)
-- Работа с БД (PostgreSQL)
-- Работа со сборщиками проектов (CI/CD + Docker)
+- Тестирование Web (DevTools, снифферы) <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" height="20"/></h1>
+- Работа с БД (PostgreSQL) <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" height="20"/></h1>
+- Работа со сборщиками проектов (CI/CD + Docker) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/610px-Docker_%28container_engine%29_logo.svg.png" height="20"/></h1>
 - Автоматизация тестирования REST API + DB (Hibernate)
-- Нагрузочное тестирование (Gatling)
+- Нагрузочное тестирование (Gatling) <img src="https://seeklogo.com/images/G/gatling-logo-DEA8F0E763-seeklogo.com.png" height="20"/></h1>
 - Разработка тестовой документации: тест-планов, чек-листов, тест-кейсов
 - Знание методологий разработки (scrum, kanban)
 - Понимание процессов разработки и жизненного цикла ПО
