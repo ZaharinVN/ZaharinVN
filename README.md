@@ -4,7 +4,7 @@
 
 ## Опыт работы и навыки
 - Языки программирования: Java <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="20"/></h1> Kotlin <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="20"/></h1>
-- Инструменты разработки: IntelliJ IDEA <img src="https://logodix.com/logo/1798528.png" height="20"/></h1>, Android Studio.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/1024px-Android_Studio_Logo_%282023%29.svg.png" height="20"/></h1>
+- Инструменты разработки: IntelliJ IDEA <img src="https://logodix.com/logo/1773394.png" height="20"/></h1>, Android Studio.<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" height="20"/></h1>
 - опыт тестирования API и БД
 - Клиент- серверное взаимодействие (Swagger) <img src="https://logotic.me/system/assets/uploads/vector-files/swagger-1669124761-logotic-brand.svg" height="20"/></h1>
 - Тестирование Backend (Postman) <img src="https://logodix.com/logo/2062767.png" height="20"/></h1>
