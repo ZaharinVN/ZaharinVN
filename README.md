@@ -6,7 +6,7 @@
 - Языки программирования: Java <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="20"/></h1> Kotlin <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="20"/></h1>
 - Инструменты разработки: IntelliJ IDEA, Android Studio.
 - опыт тестирования API и БД
-- Клиент- серверное взаимодействие (Swagger)
+- Клиент- серверное взаимодействие (Swagger) <img src="https://logotic.me/43cb0c87-8f42-46ed-8581-76dd8a7014b9" height="20"/></h1>
 - Тестирование Backend (Postman)
 - Написание базовых SQL запросов
 - Тестирование Web (DevTools, снифферы)
