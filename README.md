@@ -12,7 +12,7 @@
 - Тестирование Web (DevTools, снифферы) <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" height="20"/></h1>
 - Работа с БД (PostgreSQL) <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" height="20"/></h1>
 - Работа со сборщиками проектов (CI/CD + Docker) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/610px-Docker_%28container_engine%29_logo.svg.png" height="20"/></h1>
-- Автоматизация тестирования REST API + DB (Hibernate)
+- Автоматизация тестирования REST API + DB (Hibernate) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/800px-Hibernate_logo_a.png" height="20"/></h1>
 - Нагрузочное тестирование (Gatling) <img src="https://static.cdnlogo.com/logos/g/16/gatling.svg" height="20"/></h1>
 - Разработка тестовой документации: тест-планов, чек-листов, тест-кейсов
 - Знание методологий разработки (scrum, kanban)
