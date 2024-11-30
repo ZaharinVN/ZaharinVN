@@ -3,7 +3,7 @@
 ## Меня зовут Виталий Захарин
 
 ## Опыт работы и навыки
-- Языки программирования: Java, Kotlin<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+- Языки программирования: Java, Kotlin <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="20"/></h1>
 - Инструменты разработки: IntelliJ IDEA, Android Studio.
 - опыт тестирования API и БД
 - Клиент- серверное взаимодействие (Swagger)
