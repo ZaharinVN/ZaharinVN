@@ -6,7 +6,7 @@
 - Языки программирования: Java <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="20"/></h1> Kotlin <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="20"/></h1>
 - Инструменты разработки: IntelliJ IDEA, Android Studio.
 - опыт тестирования API и БД
-- Клиент- серверное взаимодействие (Swagger) <img src="https://logotic.me/system/assets/uploads/vector-files/swagger-1669124761-logotic-brand.svg" height="20" style="vertical-align: middle;" />
+- Клиент- серверное взаимодействие (Swagger) <img src="https://logotic.me/system/assets/uploads/vector-files/swagger-1669124761-logotic-brand.svg"  style="vertical-align: middle;"/>
 - Тестирование Backend (Postman) <img src="https://logodix.com/logo/2062767.png" height="20" style="vertical-align: middle;"/>
 - Написание базовых SQL запросов
 - Тестирование Web (DevTools, снифферы) <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" height="20"/></h1>
