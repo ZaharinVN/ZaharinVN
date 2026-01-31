@@ -45,8 +45,9 @@
 
 ✔️ [EffectiveMobileTest](https://github.com/ZaharinVN/EffectiveMobileTest) тестовое задание для Effective Mobile, фронтенд приложения для поиска авиабилетов.  
 ### Стек технологий проектов:
-Java, IntelliJ IDEA, JUnit, RestAssured, Postman, Swagger, REST API, DevTools.
-Kotlin, Android SDK, MVVM, ViewBinding, SharedPreferences, GitFlow, LiveData, Jetpack Navigation Component, Bottom navigation, Fragments, Koin, Coroutines, Flow, Room, Retrofit2, Glide.
+- Java, IntelliJ IDEA, JUnit, RestAssured, Postman, Swagger, REST API, DevTools.
+
+- Kotlin, Android SDK, MVVM, ViewBinding, SharedPreferences, GitFlow, LiveData, Jetpack Navigation Component, Bottom navigation, Fragments, Koin, Coroutines, Flow, Room, Retrofit2, Glide.
 
   
 
