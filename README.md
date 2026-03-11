@@ -37,15 +37,15 @@
   
 
 ## Мои проекты:
-✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) Тестовое задание для стажёра инженер по автоматизации тестирования Яндекс.Финтех (март 2026).
+✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) Тестовое задание для стажировки "Инженер по автоматизации тестирования Яндекс.Финтех" (март 2026).
 
-✔️ [Avito-qa-internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) Тестовое задание для стажёра QA Авито (осенняя волна 2025).
+✔️ [Avito-qa-internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) Тестовое задание для стажировки "QA Авито" (осенняя волна 2025).
 
-✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
+✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) Приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
 
-✔️ [HHPracticum](https://github.com/ZaharinVN/practicum-android-diploma) приложение для поиска вакансий на базе HeadHunter API.
+✔️ [HHPracticum](https://github.com/ZaharinVN/practicum-android-diploma) Приложение для поиска вакансий на базе HeadHunter API.
 
-✔️ [EffectiveMobileTest](https://github.com/ZaharinVN/EffectiveMobileTest) тестовое задание для Effective Mobile, фронтенд приложения для поиска авиабилетов.  
+✔️ [EffectiveMobileTest](https://github.com/ZaharinVN/EffectiveMobileTest) Тестовое задание для Effective Mobile, фронтенд приложения для поиска авиабилетов.  
 ### Стек технологий проектов:
 - Java, IntelliJ IDEA, JUnit, RestAssured, Postman, Swagger, REST API, DevTools.
 
