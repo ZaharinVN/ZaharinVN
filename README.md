@@ -37,6 +37,8 @@
   
 
 ## Мои проекты:
+✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) Тестовое задание для стажёра инженер по автоматизации тестирования Яндекс.Финтех (март 2026).
+
 ✔️ [Avito-qa-internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) Тестовое задание для стажёра QA Авито (осенняя волна 2025).
 
 ✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
