@@ -36,17 +36,17 @@
 / Январь 2023 - Февраль 2024
   
 ## Мои проекты:
-✔️ [zennobrowser_api_test](https://github.com/ZaharinVN/zennobrowser_api_test?tab=readme-ov-file#readme) Тестирование API ZennoBrowser для Zennolab. (март 2026).  
+✔️ [zennobrowser_api_test](https://github.com/ZaharinVN/zennobrowser_api_test?tab=readme-ov-file#readme) - Тестирование API ZennoBrowser для Zennolab (март 2026).  
 
-✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) Для стажировки Яндекс.Финтех "Инженер по автоматизации тестирования" (март 2026).
+✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) - Для стажировки Яндекс.Финтех "Инженер по автоматизации тестирования" (март 2026).
 
-✔️ [Avito-qa-internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) Для стажировки "QA Авито" (осенняя волна 2025).
+✔️ [Avito-qa-internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) - Для стажировки "QA Авито" (осенняя волна 2025).
 
-✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) Приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
+✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) - Приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
 
-✔️ [HHPracticum](https://github.com/ZaharinVN/practicum-android-diploma) Приложение для поиска вакансий на базе HeadHunter API.
+✔️ [HHPracticum](https://github.com/ZaharinVN/practicum-android-diploma) - Приложение для поиска вакансий на базе HeadHunter API.
 
-✔️ [EffectiveMobileTest](https://github.com/ZaharinVN/EffectiveMobileTest) Фронтенд приложения для поиска авиабилетов для Effective Mobile. 
+✔️ [EffectiveMobileTest](https://github.com/ZaharinVN/EffectiveMobileTest) - Фронтенд приложения для поиска авиабилетов для Effective Mobile. 
 
 ### Стек технологий проектов:
 - Java, IntelliJ IDEA, JUnit, RestAssured, Postman, Swagger, REST API, DevTools.
