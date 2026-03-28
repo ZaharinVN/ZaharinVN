@@ -36,7 +36,7 @@
 / Январь 2023 - Февраль 2024
   
 ## Мои проекты:
-✔️ [zennobrowser_api_test](https://github.com/ZaharinVN/zennobrowser_api_test?tab=readme-ov-file#readme) - Тестирование API ZennoBrowser для Zennolab.  
+✔️ [Тестирование API ZennoBrowser для Zennolab](https://github.com/ZaharinVN/zennobrowser_api_test?tab=readme-ov-file#readme) - Тестирование API ZennoBrowser для Zennolab.  
 
 ✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) - Для стажировки Яндекс.Финтех "Инженер по автоматизации тестирования".
 
