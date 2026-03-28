@@ -36,11 +36,11 @@
 / Январь 2023 - Февраль 2024
   
 ## Мои проекты:
-✔️ [zennobrowser_api_test](https://github.com/ZaharinVN/zennobrowser_api_test?tab=readme-ov-file#readme) - Тестирование API ZennoBrowser для Zennolab (март 2026).  
+✔️ [zennobrowser_api_test](https://github.com/ZaharinVN/zennobrowser_api_test?tab=readme-ov-file#readme) - Тестирование API ZennoBrowser для Zennolab.  
 
-✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) - Для стажировки Яндекс.Финтех "Инженер по автоматизации тестирования" (март 2026).
+✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) - Для стажировки Яндекс.Финтех "Инженер по автоматизации тестирования".
 
-✔️ [Avito-qa-internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) - Для стажировки "QA Авито" (осенняя волна 2025).
+✔️ [Avito-qa-internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) - Для стажировки "QA Авито".
 
 ✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) - Приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
 
