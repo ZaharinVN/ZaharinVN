@@ -36,15 +36,15 @@
 / Январь 2023 - Февраль 2024
   
 ## Мои проекты:
-✔️ [Тестирование API ZennoBrowser для Zennolab](https://github.com/ZaharinVN/zennobrowser_api_test?tab=readme-ov-file#readme) - Тестирование API ZennoBrowser для Zennolab.  
+✔️ [API ZennoBrowser](https://github.com/ZaharinVN/zennobrowser_api_test?tab=readme-ov-file#readme) - Тестирование API ZennoBrowser для Zennolab.  
 
-✔️ [yandex-disk-api-tests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) - Для стажировки Яндекс.Финтех "Инженер по автоматизации тестирования".
+✔️ [Yandex Disk REST API Autotests](https://github.com/ZaharinVN/yandex-disk-api-tests?tab=readme-ov-file#readme) - Для стажировки Яндекс.Финтех "Инженер по автоматизации тестирования".
 
-✔️ [Avito-qa-internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) - Для стажировки "QA Авито".
+✔️ [Avito QA Internship](https://github.com/ZaharinVN/avito-qa-internship?tab=readme-ov-file#readme) - Для стажировки "QA Авито".
 
-✔️ [PlaylistMaker](https://github.com/ZaharinVN/PlaylistMaker) - Приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
+✔️ [PlaylistMaker.app](https://github.com/ZaharinVN/PlaylistMaker) - Приложение для поиска, прослушивания треков и составления из них плейлистов на базе Itunes API.
 
-✔️ [HHPracticum](https://github.com/ZaharinVN/practicum-android-diploma) - Приложение для поиска вакансий на базе HeadHunter API.
+✔️ [HeadHunter API.app](https://github.com/ZaharinVN/practicum-android-diploma) - Приложение для поиска вакансий на базе HeadHunter API.
 
 ✔️ [EffectiveMobileTest](https://github.com/ZaharinVN/EffectiveMobileTest) - Фронтенд приложения для поиска авиабилетов для Effective Mobile. 
 
